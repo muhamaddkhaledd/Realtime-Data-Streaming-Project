@@ -9,7 +9,7 @@ It covers the complete data flow — from ingestion and orchestration to streami
 
 Below is the architecture of the project pipeline 👇  
 
-![Architecture Diagram](Realtime_Data_Streaming_architecture.png)
+![Architecture Diagram](Realtime-Data-Streaming-architecture.png)
 
 ---
 
