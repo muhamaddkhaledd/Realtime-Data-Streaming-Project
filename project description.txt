@@ -1,0 +1,5 @@
+Realtime Data Streaming Project
+
+A fully containerized end-to-end data engineering pipeline built with Airflow, Kafka, Zookeeper, Spark, Cassandra, PostgreSQL, and Docker.
+The pipeline fetches data from the randomuser.me API using Apache Airflow, streams it in real time through Kafka, processes it with Apache Spark, and stores the results in Cassandra.
+This project demonstrates real-time data ingestion, processing, and storage with automated orchestration and scalable architecture.

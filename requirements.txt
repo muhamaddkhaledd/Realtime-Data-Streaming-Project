@@ -1,0 +1,5 @@
+apache-airflow == 2.5.0
+kafka-python
+spark
+pyspark
+cassandra-driver
